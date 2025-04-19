@@ -25,9 +25,6 @@ Este projeto é apenas uma simulação para fins de aprendizado. Não é oficial
 
 > ⚠️ **Observação:** O projeto **não realiza autenticação real**, sendo apenas uma representação visual.
 
-## 🎥 Tutorial em Vídeo
-
-
 ## 👨‍💻 Sobre o Autor
 
 **Nome:** Emanuel Felipe  
