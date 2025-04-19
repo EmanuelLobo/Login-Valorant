@@ -1,4 +1,4 @@
-# 🎮 Tela de Login YouTube x Valorant
+# 🎮 Tela de Login  Valorant
 
 Simulação de uma tela de login inspirada no layout do YouTube, adaptada para o universo do Valorant. Este projeto foi criado com o objetivo de praticar HTML, CSS e JavaScript, explorando o design responsivo e a criação de uma interface simples, prática e funcional.
 
