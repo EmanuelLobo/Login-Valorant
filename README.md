@@ -21,7 +21,7 @@ Este projeto é apenas uma simulação para fins de aprendizado. Não é oficial
 
 1. Baixe ou extraia os arquivos do projeto.
 2. Abra o arquivo `index.html` no navegador de sua preferência.
-3. Interaja com a interface como se fosse uma tela de login personalizada do YouTube com opção para o Valorant.
+3. Interaja com a interface como se fosse uma tela de login com opção para o Valorant.
 
 > ⚠️ **Observação:** O projeto **não realiza autenticação real**, sendo apenas uma representação visual.
 
